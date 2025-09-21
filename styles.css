@@ -297,7 +297,7 @@ h2 {
     border: 1px solid #ddd;
     border-radius: 8px;
     font-size: 1rem;
-    width: 80%;
+    width: 100%;
     box-sizing: border-box; /* Ensures padding doesn't affect total width */
 }
 
