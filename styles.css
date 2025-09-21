@@ -279,7 +279,7 @@ h2 {
 /* Update the header container to use flexbox */
 .header-content {
     display: flex;
-    align-items: center;
+    align-items: left;
     gap: 20px;
 }
 
